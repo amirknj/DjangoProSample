@@ -1,6 +1,6 @@
-# djangosample
+# This is Django professional sample projecet
 
-## project setup
+## project was setuped with cookicutter
 
 1- compelete cookiecutter workflow (recommendation: leave project_slug empty) and go inside the project
 ```
