@@ -18,7 +18,7 @@ LOCAL_APPS = [
     'djangosample.common.apps.CommonConfig',
     'djangosample.users.apps.UsersConfig',
     'djangosample.authentication.apps.AuthenticationConfig',
-    'djangosample.blog.apps.BlogConfig',
+    'djangosample.blog.apps.BlogConfig'
 ]
 
 THIRD_PARTY_APPS = [
